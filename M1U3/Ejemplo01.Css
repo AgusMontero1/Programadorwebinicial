@@ -1,0 +1,32 @@
+h2{
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 55px;
+    text-align: center;
+    background-color: yellow;
+    text-shadow: 1px 4px 3px rgba(201,52,233,1);
+}
+
+p{
+    color: blueviolet;
+    column-count: 2;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    box-shadow: 8px 72px 45px -58px rgba(92,14,92,1);
+-webkit-box-shadow: 8px 72px 45px -58px rgba(92,14,92,1);
+-moz-box-shadow: 8px 72px 45px -58px rgba(92,14,92,1);
+border: 18px groove #ad97cc;
+border-radius: 0px 177px 189px 200px;
+padding: 30px;
+margin-left: 150px;
+}
+
+.destacados{
+    color: green;
+    font-weight: bold;
+    font-size: 29px;
+}
